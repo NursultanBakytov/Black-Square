@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47870260249",
+    "project_id": "blacksquare-99045",
+    "storage_bucket": "blacksquare-99045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47870260249:android:0b9b41803cb352216f2688",
+        "android_client_info": {
+          "package_name": "com.blacksquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47870260249-vb2p6koi7oghl652j141rkfgo4biqlk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blacksquare",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "47870260249-ebpm84bqihfjse60ao7p9kvecpqrgd46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2ASPEg5HBLFICx0aAfgbheEN70BrSXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47870260249-ebpm84bqihfjse60ao7p9kvecpqrgd46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
